@@ -1,0 +1,16 @@
+ul{
+    margin: 0;padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:lightblue;
+}
+li{
+    float: right;
+}
+li a{color: yellow;
+    padding: 18px 24px;
+    font-size: 18px;
+    font-family: LKLUG;
+    text-decoration: none;
+
+}
